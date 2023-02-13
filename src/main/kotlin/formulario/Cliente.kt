@@ -5,7 +5,6 @@ class Cliente(
     var sobrenome: String,
     var idade: String,
     var cpf: String,
-//  Talvez coloca cnpj tambem
     var telefone: String,
     var email: String
 ){

@@ -31,7 +31,7 @@ class Cadastro {
             println("Falha!! Formato inválido!!")
             cadastroNome()
         }
-    } //OK
+    }
 
     private fun cadastroSobreNome() {
 
@@ -49,7 +49,7 @@ class Cadastro {
             println("Falha!! Formato inválido!!")
             cadastroSobreNome()
         }
-    } //OK
+    }
 
     private fun cadastroIdade() {
 
@@ -64,7 +64,7 @@ class Cadastro {
             println("Falha!! Formato inválido!!")
             cadastroIdade()
         }
-    } //colocar somente de maior (AJUSTES) // tlvz coloque na validacao só
+    }
 
     private fun cadastroCpf() {
 
